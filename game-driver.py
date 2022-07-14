@@ -39,7 +39,7 @@ VICTORY = 3
 def rotate(a):
     """Performs a cyclic permutation of a units on the holes."""
     for i in range(N):
-        hole_colors[i] = hole_colors[(i - a) % N]
+        hole_colors[i], hole_colors[(i - a) % N] = hole_colors[(i - a) % N], hole_colors[i]
 
 
 def center(x, y):
