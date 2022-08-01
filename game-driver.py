@@ -5,8 +5,8 @@ import pygame
 from pygame.locals import *
 
 # Parameters
-N = 4
-n = 2
+N = 8
+n = 4
 k = 2
 
 screen_dims = (512, 512)
