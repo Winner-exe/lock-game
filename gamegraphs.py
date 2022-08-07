@@ -3,9 +3,9 @@ from itertools import product
 
 class GameGraph:
     def __init__(self, locations, initial_state, actions, transitions):
-        self.locations = locations
+        self.locations = list(locations)
 
-        if initial_state not in locations:
+        if initial_state not in self.locations:
             raise Exception("Initial state is not in the location space!")
 
         self.initial_state = initial_state
