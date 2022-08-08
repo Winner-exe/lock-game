@@ -1,0 +1,15 @@
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\bin\Release\net6.0\LockGameGraphApp.exe
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\bin\Release\net6.0\LockGameGraphApp.deps.json
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\bin\Release\net6.0\LockGameGraphApp.runtimeconfig.json
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\bin\Release\net6.0\LockGameGraphApp.dll
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\bin\Release\net6.0\LockGameGraphApp.pdb
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\obj\Release\net6.0\LockGameGraphApp.csproj.AssemblyReference.cache
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\obj\Release\net6.0\LockGameGraphApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\obj\Release\net6.0\LockGameGraphApp.AssemblyInfoInputs.cache
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\obj\Release\net6.0\LockGameGraphApp.AssemblyInfo.cs
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\obj\Release\net6.0\LockGameGraphApp.csproj.CoreCompileInputs.cache
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\obj\Release\net6.0\LockGameGraphApp.dll
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\obj\Release\net6.0\refint\LockGameGraphApp.dll
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\obj\Release\net6.0\LockGameGraphApp.pdb
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\obj\Release\net6.0\LockGameGraphApp.genruntimeconfig.cache
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphApp\obj\Release\net6.0\ref\LockGameGraphApp.dll

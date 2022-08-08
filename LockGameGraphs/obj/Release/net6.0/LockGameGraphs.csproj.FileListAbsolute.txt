@@ -1,0 +1,12 @@
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\bin\Release\net6.0\LockGameGraphs.deps.json
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\bin\Release\net6.0\LockGameGraphs.dll
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\bin\Release\net6.0\LockGameGraphs.pdb
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\obj\Release\net6.0\LockGameGraphs.csproj.AssemblyReference.cache
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\obj\Release\net6.0\LockGameGraphs.GeneratedMSBuildEditorConfig.editorconfig
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\obj\Release\net6.0\LockGameGraphs.AssemblyInfoInputs.cache
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\obj\Release\net6.0\LockGameGraphs.AssemblyInfo.cs
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\obj\Release\net6.0\LockGameGraphs.csproj.CoreCompileInputs.cache
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\obj\Release\net6.0\LockGameGraphs.dll
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\obj\Release\net6.0\refint\LockGameGraphs.dll
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\obj\Release\net6.0\LockGameGraphs.pdb
+E:\Stevens 2021-2022\Group Theoretic Games and Additional Algebraic Problems\LockGameGraphs\obj\Release\net6.0\ref\LockGameGraphs.dll
